@@ -1,7 +1,6 @@
 # wordle_bot
 bot that solves wordle, i dont know what else to tell you
 
-# wordle_bot
 python script to solve/help solve wordle given initial guess(es)
 
 Usage:
@@ -68,7 +67,7 @@ Example uses Wordle word = TANGY
 > CHOSEN: PLANT
 > CHOSEN: QUANT
 > 
-> Best words to use next:
+> Best words to use next:   # These words are the most effective at deducing the correct word on the next go
 > ['TANGY', 'GAUNT', 'TWANG']
 > Not guaranteed to confirm correct word in the next go.
 ```
