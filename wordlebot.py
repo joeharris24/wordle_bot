@@ -11,7 +11,7 @@ for i in range(wordsUsedCount):
 	wordUsed = input("Word used: ")
 	wordsUsedArray.append(wordUsed)
 	while allDone == False:
-		result = input("Enter G/O (green/orange), letter used, and position used (starting at 0), e.g. G T 0, or Q if done: ")
+		result = input("Enter G/O (green/orange), letter used, and position in the word (1-5). Enter Q if complete:\n")
 		if result == "Q" or result == "q":
 			for i in list(wordUsed):
 				
