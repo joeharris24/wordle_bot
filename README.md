@@ -14,7 +14,7 @@ Example uses Wordle word = TANGY
 > Word used: 
 >   NOTES
 >   
-> Enter G/O (green/orange), letter used, and position used (starting at 0), e.g. G T 0, or Q if done:
+> Enter G/O (green/orange), letter used, and position in the word (1-5). Enter Q if complete:
 >   O N 1
 >   O T 3
 >   Q
@@ -22,7 +22,7 @@ Example uses Wordle word = TANGY
 > Word used:
 >   ACRID
 >   
-> Enter G/O (green/orange), letter used, and position used (starting at 0), e.g. G T 0, or Q if done:
+> Enter G/O (green/orange), letter used, and position in the word (1-5). Enter Q if complete:
 >   O A 1
 >   Q
 >   
@@ -52,7 +52,7 @@ Example uses Wordle word = TANGY
 > 23: QUANT
 > 24: JUNTA
 > 
-> Enter spaced digits of words to take through:
+> Enter spaced digits of words to take through: # (i.e. which ones look like they could realistically be the answer, cause who tf heard of 'THANH')
 >   5 6 7 10 12 13 14 17 19 22 23
 >   
 > CHOSEN: TANGY
