@@ -6,7 +6,7 @@ python script to solve/help solve wordle given initial guess(es)
 Usage:
 python wordlebot.py
 
-Example uses Wordle word = TANGY
+Below example assumes correct word = TANGY
 ```
 > How many words used so far?: 
 >  2
