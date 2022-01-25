@@ -26,7 +26,7 @@ Below example assumes correct word = TANGY
 >   O A 1
 >   Q
 >   
->   Results
+> Results
 > 1: TANGA
 > 2: TANKA
 > 3: TANTA
