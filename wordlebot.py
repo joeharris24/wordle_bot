@@ -1,3 +1,5 @@
+# please dont read this code its so poorly optimised and commented lol
+
 import enchant
 d = enchant.Dict("en_UK")
 availableLetters = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z",]
